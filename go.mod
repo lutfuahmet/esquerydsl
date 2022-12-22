@@ -1,3 +1,3 @@
-module github.com/mottaquikarim/esquerydsl
+module github.com/lutfuahmet/esquerydsl
 
 go 1.15
